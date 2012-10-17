@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "http://mk.sg/8w"
   s.license      = { :type => 'MIT', :file => 'README.mdown' }
   s.author       = 'Ingenious Med, Inc.', 'MugunthKumar'
-  s.source       = { :git => "https://github.com/IngeniousMed/MKNetworkKit.git", :tag => "v0.83" }
+  s.source       = { :git => "https://github.com/IngeniousMed/MKNetworkKit.git", :tag => "v0.83a" }
   s.platform     = :ios, '4.3'
   s.source_files = 'MKNetworkKit', 'MKNetworkKit/**/*.{h,m}'
   s.frameworks = 'CFNetwork.Framework', 'SystemConfiguration.framework', 'Security.framework'
