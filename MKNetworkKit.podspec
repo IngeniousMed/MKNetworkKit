@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "MKNetworkKit"
-  s.version      = "0.85"
+  s.version      = "0.0.1"
   s.summary      = "Full ARC based Networking Kit for iOS 4+ devices."
   s.homepage     = "http://mk.sg/8w"
   s.author       = 'Ingenious Med, Inc.', 'MugunthKumar'
